@@ -1,0 +1,6 @@
+{
+  "name": "DDM-HUB",
+  "description": "DDM-HUB - Creative Agency for Graphic Design, Video Editing, UI/UX, and Digital Marketing Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
